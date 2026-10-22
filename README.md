@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jensen_YH-IoT_%26_Embedded-2c8a74?style=flat-square" alt="Jensen YH, IoT and Embedded">
-  <img src="https://img.shields.io/badge/Year-2_of_2-16313a?style=flat-square" alt="Year 2">
+  <img src="https://img.shields.io/badge/Year-2nd-16313a?style=flat-square" alt="2nd year">
   <img src="https://komarev.com/ghpvc/?username=aliazam94j&style=flat-square&color=2c8a74&label=Profile+views" alt="Profile views">
 </p>
 
